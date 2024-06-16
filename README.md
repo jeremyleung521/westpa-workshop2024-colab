@@ -14,8 +14,8 @@
 *	Refresh your browser page 
 *	If Firefox, make sure Enhanced Tracking Protection is off (little shield icon next to URL)
 
-### Activating environment
-3)	After everything is done, you should be in ``$TMPDIR/westpa-workshop2024-tutorials``
+## Activating environment
+3.	After everything is done, you should be in ``$TMPDIR/westpa-workshop2024-tutorials``
 * A virtual environment called ``westpa-workshop2024`` is made in ``~/``
 * To use venv, select the correct kernel (Top right of Notebook) or run ``source ~/h2p-quickstart/activate_env.sh`` (Terminal)
 
@@ -29,8 +29,9 @@ Notes:
 •	Passcode: 12345
  
 •	Backup: 
-o	Run on Google Colab: https://colab.research.google.com/
-o	Notebooks: https://drive.google.com/drive/folders/117MEBBOXrqUEWxk47IrpND8BuG-cU6QL?usp=drive_link  
+* Run on Google Colab: https://colab.research.google.com/
+* File -> Open Notebook, paste GitHub Link. Select Notebook.
+* Notebooks: 
 https://github.com/jeremyleung521/westpa-workshop2024-colab
 
 
