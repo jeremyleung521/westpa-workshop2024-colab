@@ -1,0 +1,36 @@
+# Quick Start Guide
+* Video Guide: https://youtu.be/iU_cUbZDvfU
+
+## Logging in
+1.	Go to https://jupyter.crc.pitt.edu
+* Login with your Pitt ID/Password
+* Click "Start Server"
+* Select the "12-core-6 hours TEACH version"
+
+## Setting up files and stuff
+2.	Run the following:
+*	``git clone https://github.com/jeremyleung521/h2p-quickstart``
+*	``source h2p-quickstart/run_bash.sh``
+*	Refresh your browser page 
+*	If Firefox, make sure Enhanced Tracking Protection is off (little shield icon next to URL)
+
+### Activating environment
+3)	After everything is done, you should be in ``$TMPDIR/westpa-workshop2024-tutorials``
+* A virtual environment called ``westpa-workshop2024`` is made in ``~/``
+* To use venv, select the correct kernel (Top right of Notebook) or run ``source ~/h2p-quickstart/activate_env.sh`` (Terminal)
+
+Notes:
+* Everything in ``$TMPDIR`` will be deleted when your session terminates (TIMEOUT, SLURM job deleted/canceled and/or by clicking “Stop my server” on the CRC website)
+* You can reconnect even when your browser disconnects (nothing deleted)
+* Your environment (built in ``~/``) will be preserved. Run source ~/h2p-quickstart/activate_env.sh (Sets environment variables and activates environment: westpa-workshop2024/bin/activate).
+
+•	https://pitt.zoom.us/j/94041061817
+•	Meeting ID: 940 4106 1817
+•	Passcode: 12345
+ 
+•	Backup: 
+o	Run on Google Colab: https://colab.research.google.com/
+o	Notebooks: https://drive.google.com/drive/folders/117MEBBOXrqUEWxk47IrpND8BuG-cU6QL?usp=drive_link  
+https://github.com/jeremyleung521/westpa-workshop2024-colab
+
+
