@@ -22,7 +22,8 @@
 Notes:
 * Everything in ``$TMPDIR`` will be deleted when your session terminates (TIMEOUT, SLURM job deleted/canceled and/or by clicking “Stop my server” on the CRC website)
 * You can reconnect even when your browser disconnects (nothing deleted)
-* Your environment (built in ``~/``) will be preserved. Run source ~/h2p-quickstart/activate_env.sh (Sets environment variables and activates environment: westpa-workshop2024/bin/activate).
+* Your environment (built in ``~/``) will be preserved. Run ``source ~/h2p-quickstart/activate_env.sh`` (Sets environment variables and activates environment: westpa-workshop2024/bin/activate, clones this repository into $TMPDIR if doesn't exist).
+* If the kernel is acting weird (can't import things even after kernel restart), just stop your server and restart. (File --> Hub Control Panel --> Stop My Server). Run ``source ~/h2p-quickstart/activate_env.sh`` to reclone the repository + activate environment.
 
 •	https://pitt.zoom.us/j/94041061817
 •	Meeting ID: 940 4106 1817
