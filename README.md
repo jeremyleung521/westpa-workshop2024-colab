@@ -5,7 +5,7 @@
 1.	Go to https://jupyter.crc.pitt.edu
 * Login with your Pitt ID/Password
 * Click "Start Server"
-* Select the "12-core-6 hours TEACH version"
+* Select the "WESTPA 12-core 6 hours"
 
 ## Setting up files and stuff
 2.	Run the following:
@@ -33,5 +33,3 @@ Notes:
 * File -> Open Notebook, paste GitHub Link. Select Notebook.
 * Notebooks: 
 https://github.com/jeremyleung521/westpa-workshop2024-colab
-
-
