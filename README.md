@@ -9,7 +9,7 @@
 
 ## Setting up files and stuff
 2.	Run the following:
-*	``git clone https://github.com/jeremyleung521/h2p-quickstart``
+*	``git clone https://github.com/westpa/h2p-quickstart``
 *	``source h2p-quickstart/run_bash.sh``
 *	Refresh your browser page 
 *	If Firefox, make sure Enhanced Tracking Protection is off (little shield icon next to URL)
